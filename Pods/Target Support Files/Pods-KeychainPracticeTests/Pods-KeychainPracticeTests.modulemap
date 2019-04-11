@@ -1,0 +1,6 @@
+framework module Pods_KeychainPracticeTests {
+  umbrella header "Pods-KeychainPracticeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
